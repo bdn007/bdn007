@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://bdn007.pages.dev/"
 title = "Pau"
 theme = "hugo-coder"
 languagecode = "en"
