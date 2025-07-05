@@ -1,5 +1,5 @@
 baseurl = "https://bdn007.pages.dev/"
-title = "Pau"
+title = "Old Camel's Home"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -16,16 +16,16 @@ pagerSize = 20
 style = "github-dark"
 
 [params]
-  author = "Cau Doe"
-  info = "Fat Cat Always Hungry"
+  author = "Old Camel"
+  info = "Plan for Retirement in Europe"
   description = "John Doe's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/camel-icon.png"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  faviconSVG = "/imgages/favicons/favicon.svg"
+  favicon_32 = "/imgages/favicons/favicon-32x32.png"
+  favicon_16 = "/imgages/favicons/favicon-16x16.png"
 
   since = 2006
 

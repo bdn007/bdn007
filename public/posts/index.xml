@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Pau</title>
+    <title>Posts on Old Camel&#39;s Home</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Pau</description>
+    <description>Recent content in Posts on Old Camel&#39;s Home</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Jul 2025 19:25:50 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 19:23:27 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Non Lucrative Visa</title>
+      <link>http://localhost:1313/posts/non-lucrative-visa/</link>
+      <pubDate>Fri, 04 Jul 2025 19:23:27 +0300</pubDate>
+      <guid>http://localhost:1313/posts/non-lucrative-visa/</guid>
+      <description>&lt;p&gt;Hi there,&lt;/p&gt;&#xA;&lt;p&gt;I am Cau, the fat one of the family.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Pau</title>
       <link>http://localhost:1313/posts/pau/</link>
       <pubDate>Wed, 02 Jul 2025 19:25:50 +0300</pubDate>
       <guid>http://localhost:1313/posts/pau/</guid>
       <description>&lt;p&gt;Pau is a cat, he is skinny.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Cau</title>
-      <link>http://localhost:1313/posts/cau/</link>
-      <pubDate>Wed, 02 Jul 2025 19:23:27 +0300</pubDate>
-      <guid>http://localhost:1313/posts/cau/</guid>
-      <description>&lt;p&gt;Hi there,&lt;/p&gt;&#xA;&lt;p&gt;I am Cau, the fat one of the family.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
