@@ -19,7 +19,7 @@ If you do not receive these amounts on a monthly basis, it is also possible to s
 The process starts with a consulate in your country of legal residence, and it takes roughly four months until you will have your visa in hand which allows you to travel to Spain. Find the timeline in below:
 
 {{< mermaid >}}
-graph LR;
+graph TD;
     A([Visa Application])-->|3 months| B[Visa Acceptance]
     B --> | 1 month | C[Collect Visa]
     C -->| 3 months | D[Enter Spain]
