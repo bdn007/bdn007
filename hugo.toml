@@ -23,9 +23,9 @@ style = "github-dark"
   avatarurl = "images/camel-icon.png"
   #gravatar = "john.doe@example.com"
 
-  faviconSVG = "/imgages/favicons/favicon.svg"
-  favicon_32 = "/imgages/favicons/favicon-32x32.png"
-  favicon_16 = "/imgages/favicons/favicon-16x16.png"
+  faviconSVG = "/images/favicons/favicon.svg"
+  favicon_32 = "/images/favicons/favicon-32x32.png"
+  favicon_16 = "/images/favicons/favicon-16x16.png"
 
   since = 2006
 
