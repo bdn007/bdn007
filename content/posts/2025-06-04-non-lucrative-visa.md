@@ -29,17 +29,24 @@ graph TD;
 
 ## General Requirements
 1.  Applicant is not an EU Citizen, not a EU citizen family member and is not in Spain irregularly.
-2. No prior criminal record in Spain.
+2. No prior criminal record.
+    - Police record to be provided covering last 5 years.
 3. Applicant has sufficient economic means to maintain residence (2.400 €/month per main applicant, and 600€/month per each accompanying family member).
+    - Receive a **fixed monthly amount** from a **permanent source of income**, such as a trust fund or retirement pension. This cannot be a salary, as it could be misunderstood that you are required to work during your stay in Spain.
+    - The income must be at least €2,400 per month (main applicant), plus €600 per month for each additional family member.
+    - You can also **show the disposal of savings** for the total amount (€28,000 per year for the main applicant, plus €7,200 for each additional family member) at the time of application, in which case there is no need to prove a fixed monthly income. 
+        - Bank statements from last 3 - 12 months depending on the local Spanish Consulate.
+        - Proof of funds held by the main visa applicant.
 4. Family members can joint the application at the same time.
 
-### Step 1: Residence Permit Authroization & Visa Application
+### Step 1: Residence Permit Authorization & Visa Application
 - Applicant must personally submit required documents at Spanish consulate or diplomatic mission in their home country or country of residence.
 - Public documents must be legalised and  translated into Spanish by a juror translator.
 - Visa Fee and Residence Authorization Fee.
 
 ### Step 2: Foreign Identity Card
-- Once your application is approved and you entered Spain, register with the Town Hall at an address in Spain ("Empadronamiento")Apply for the Foreigner Identity Card.
+- Once your application is approved and you entered Spain, register with the Town Hall at an address in Spain ("Empadronamiento")
+- Apply for the Foreigner Identity Card.
 - The card can usually be collected 30-45 days  personally at a Police Station.
 
 ## Validity
