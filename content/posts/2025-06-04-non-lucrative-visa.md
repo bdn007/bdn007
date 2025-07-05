@@ -38,6 +38,7 @@ graph TD;
         - Bank statements from last 3 - 12 months depending on the local Spanish Consulate.
         - Proof of funds held by the main visa applicant.
 4. Family members can joint the application at the same time.
+    - If moving with a spouse, a marriage certificate, duly legalized or apostilled and sworn translated into Spanish, is required.
 
 ### Step 1: Residence Permit Authorization & Visa Application
 - Applicant must personally submit required documents at Spanish consulate or diplomatic mission in their home country or country of residence.
@@ -55,3 +56,11 @@ graph TD;
 - After the first year the foreigner can modify this residence permit into a residence and work permit. The applicant must reside in Spain at least 180 days per year.
 
 [Source](https://view.genially.com/6155e370a4af760dd58d4a50)
+
+## Required Documentation
+- Valid Passport: Ensure your passport is valid.
+- Private Health Insurance: Obtain health insurance from a Spanish provider.
+- National Visa Form: Complete the necessary visa application form.
+- Medical Certificate: Provide a medical certificate.
+- Bank Certificate: Show proof of sufficient income.
+- Criminal Record Background Check: Provide a legalized criminal record background check.
