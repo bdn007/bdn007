@@ -73,9 +73,9 @@ graph TD;
 |Review of Documentation	      | ✅       | ✅     | ✅   |
 |Application Forms Preparation    | ✅       | ✅     | ✅   |
 |Communication With Public Bodies | ✅       | ✅     | ✅   |
-|TIE                              | ```❌``` | ✅     | ✅   |
+|TIE (ID for Foreigner)           | ```❌``` | ✅     | ✅   |
 |Translations Included            |```❌```  |```❌```| ✅   |
-|Tax Conslutation                 |```❌```  |```❌```| ✅   |
+|Tax Consultation                 |```❌```  |```❌```| ✅   |
 | Cost: Main applicant            | €1,500   | €1,700 | €1,900 |
 | Cost: Each family member        | €650     | €950   | €1,150 |
 
