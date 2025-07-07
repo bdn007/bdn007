@@ -34,7 +34,7 @@ graph TD;
 3. Applicant has sufficient economic means to maintain residence (2.400 €/month per main applicant, and 600€/month per each accompanying family member).
     - Receive a **fixed monthly amount** from a **permanent source of income**, such as a trust fund or retirement pension. This cannot be a salary, as it could be misunderstood that you are required to work during your stay in Spain.
     - The income must be at least €2,400 per month (main applicant), plus €600 per month for each additional family member.
-    - You can also **show the disposal of savings** for the total amount (€28,000 per year for the main applicant, plus €7,200 for each additional family member) at the time of application, in which case there is no need to prove a fixed monthly income. 
+    - You can also **show the disposal of savings** for the total amount (€28,800 per year for the main applicant, plus €7,200 for each additional family member) at the time of application, in which case there is no need to prove a fixed monthly income. 
         - Bank statements from last 3 - 12 months depending on the local Spanish Consulate.
         - Proof of funds held by the main visa applicant.
 4. Family members can joint the application at the same time.
@@ -64,3 +64,32 @@ graph TD;
 - Medical Certificate: Provide a medical certificate.
 - Bank Certificate: Show proof of sufficient income.
 - Criminal Record Background Check: Provide a legalized criminal record background check.
+
+## Services & Fees
+
+| Services Included               | Bronze   | Silver | Gold |
+| -------------------             | :------: | :----: |:----:|
+|List of Documents to Gather      | ✅       | ✅     | ✅   |
+|Review of Documentation	      | ✅       | ✅     | ✅   |
+|Application Forms Preparation    | ✅       | ✅     | ✅   |
+|Communication With Public Bodies | ✅       | ✅     | ✅   |
+|TIE                              | ```❌``` | ✅     | ✅   |
+|Translations Included            |```❌```  |```❌```| ✅   |
+|Tax Conslutation                 |```❌```  |```❌```| ✅   |
+| Cost: Main applicant            | €1,500   | €1,700 | €1,900 |
+| Cost: Each family member        | €650     | €950   | €1,150 |
+
+### Additional Services
+
+- Tax Consultation Price: €300 + 21% VAT.
+- Personal Income Tax Presentation at Tax Office Price: depending on the complexity of the situation.
+- Purchase Property in Spain Price: % depending on the amount of the property.
+- Get all-in-one support with renting, buying a home, moving, schooling, and language courses—all taken care of by us!
+
+### Additional Expenses
+
+- Health insurance: approximately €50 to  €100 a month per person.
+- Legalisations/Apostille of the Hague: approximately €150 to €200 per document.
+- Translations: €30 to €40 approximately per page (documents with a lot of words have a higher prices and a quote will be requested for your reference).
+
+[Source](https://view.genially.com/6536795df2efd10011d79071)
